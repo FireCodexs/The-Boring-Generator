@@ -1,4 +1,3 @@
-
 ## Overview
 
 <img src="https://img.shields.io/badge/License-MIT License-green.svg">
@@ -19,39 +18,36 @@
 
 [Questions](#questions)
 
-
-# Coffee Shop
-
-
+# ReadMe Generator
 
 # Description
-## A mern app
+
+## Generate your README.md file easily with my generator.
 
 # Installation
-## refer to package.json
 
+## You will have to install node.js and inquirer
 
 # Usage
-## use it freely
 
+## Use it as you may see fit
 
-# License 
+# License
+
 This application is covered under the MIT License license.
 
-
 # Contributions
-## contribute as you wish
 
+## Contribute as you wish
 
 # Tests
-## about 0
 
+## About 2
 
 # Questions
+
 [@MyGitHub](github.com/user)
 
+For more information please contact me at
 
-For more information please contact me at 
 ## myEmail@gmail.com
-
-
